@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I'm trying to build a naive blog with github. If u have any suggestion, feel free to **issue** me!
