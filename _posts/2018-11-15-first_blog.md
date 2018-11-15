@@ -2,8 +2,6 @@
 title: "First Blog : VENON"
 date: 2018-11-16
 ---
-
-# First Blog
 ## This is my first blog ever so I might write anything at will. 
 I just watched **VENON** by **Marvel**... Honestly, this film did not suit my type so much. 
 
